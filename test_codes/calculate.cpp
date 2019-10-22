@@ -1,3 +1,5 @@
+//用顺序表写的计算器，只实现了带括号的多项运算
+
 #include<stdio.h>
 #include<stdlib.h>
 
